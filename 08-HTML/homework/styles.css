@@ -1,0 +1,34 @@
+* {
+    align-items: center;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+#thirdDiv {
+    display:inline-flex;
+    height: 600px;
+    width: 500px;
+    background-color: lightgray;
+    padding: 50px;
+    border: 2px solid greenyellow;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+
